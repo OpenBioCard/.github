@@ -1,12 +1,15 @@
-## Hi there 👋
+# OpenBioCard ✨
 
-<!--
+![OpenBioCard Preview](https://raw.githubusercontent.com/OpenBioCard/.github/refs/heads/main/svgviewer-png-output.png)
 
-**Here are some ideas to get you started:**
+**OpenBioCard** is a **free, open-source, decentralized personal webpage business card**.  
+Easily create, customize, and share your own personal profile page—fully under your control. 🌐
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Features
+
+- 🛡️ **Decentralized & Open-Source** – Full control over your data  
+- 🎨 **Customizable Profile & Links** – Make it truly yours  
+- 🔒 **Secure & Private** – Keep your information safe  
+- 📱 **Responsive Design** – Looks great on any device  
+
+Showcase your identity freely with **OpenBioCard** 🚀
